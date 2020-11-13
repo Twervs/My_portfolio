@@ -9,6 +9,6 @@ Cleaning the data and using Statistical models for house prices.
 
 ![](__results___11_0.png)
 
-[Project 3: Real or Not(https://www.kaggle.com/qwervs/notebookf2687fc4b6)
+[Project 3: Real or Not](https://www.kaggle.com/qwervs/notebookf2687fc4b6)
 Checking if tweets are real or not
 
